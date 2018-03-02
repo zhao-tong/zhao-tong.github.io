@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tong Zhao"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tong Zhao"
 description              : &description "Student at University of Notre Dame"
@@ -62,7 +62,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tong Zhao"
+  name             : #"Tong Zhao"
   avatar           : "profile.png"
   bio              : "some bio"
   location         : 
