@@ -10,6 +10,8 @@ redirect_from:
 
 This is the a personal website.
 
+**Definition.** **Math**: One thing you do not understand equals something you cannot compute.
+
 What's New
 ======
 nothing new
