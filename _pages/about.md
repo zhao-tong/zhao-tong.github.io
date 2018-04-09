@@ -10,7 +10,8 @@ redirect_from:
 
 This is the a personal website.
 
-**Definition of Math.** One thing you do not understand equals something you cannot compute.
+As Dr. Mark Meckes said:
+> Math is: one thing you do not understand equals something you cannot compute.
 
 What's New
 ======
