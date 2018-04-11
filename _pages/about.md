@@ -10,7 +10,6 @@ redirect_from:
 
 This is the a personal website.
 
-As Dr. Mark Meckes said:
 > Math is: one thing you do not understand equals something you cannot compute.
 
 What's New
