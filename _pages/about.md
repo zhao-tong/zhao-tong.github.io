@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Tong Zhao."
+title: "Tong Zhao."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,11 +12,12 @@ I am a Ph.D. student in Computer Science and Engineering department at Universit
 
 My research interest includes: Computational behavior modeling; Suspicious behavior detection; Factorization; Generative adersarial networks.
 
-Contact: tzhao2 at nd dot edu
+Contact: tzhao2 at nd dot edu.
 
+------
 What's New
 ======
 I will be the TA for CSE 40647 Data Science in Fall 2018.
 
-
+------
 > Math is: one thing you do not understand equals something you cannot compute.
