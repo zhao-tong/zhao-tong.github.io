@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tong Zhao"
+title: "Hi! I am Tong Zhao."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the a personal website.
+I am a Ph.D. student in Computer Science and Engineering department at University of Notre Dame.
+
+My research interest is 
 
 > Math is: one thing you do not understand equals something you cannot compute.
 
 What's New
 ======
-nothing new
+I will be the TA for CSE 40647 Data Science in Fall 2018.
