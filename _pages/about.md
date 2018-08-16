@@ -12,8 +12,11 @@ I am a Ph.D. student in Computer Science and Engineering department at Universit
 
 My research interest is 
 
-> Math is: one thing you do not understand equals something you cannot compute.
+Contact: tzhao2@nd.edu
 
 What's New
 ======
 I will be the TA for CSE 40647 Data Science in Fall 2018.
+
+
+> Math is: one thing you do not understand equals something you cannot compute.
