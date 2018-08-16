@@ -15,9 +15,4 @@ My research interest includes: Computational behavior modeling; Suspicious behav
 Contact: tzhao2 at nd dot edu.
 
 ------
-What's New
-======
-I will be the TA for CSE 40647 Data Science in Fall 2018.
-
-------
 > Math is: one thing you do not understand equals something you cannot compute.
