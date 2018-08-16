@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science and Engineering department at University of Notre Dame.
 
-My research interest includes: Computational behavior modeling; Suspicious behavior detection; Factorization; Generative adersarial networks.
+My research interests are: Computational behavior modeling; Suspicious behavior detection; Factorization; Generative adersarial networks.
 
 Contact: tzhao2 at nd dot edu.
+
+-----
