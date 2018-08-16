@@ -13,6 +13,3 @@ I am a Ph.D. student in Computer Science and Engineering department at Universit
 My research interest includes: Computational behavior modeling; Suspicious behavior detection; Factorization; Generative adersarial networks.
 
 Contact: tzhao2 at nd dot edu.
-
-------
-> Math is: one thing you do not understand equals something you cannot compute.
