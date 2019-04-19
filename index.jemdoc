@@ -1,0 +1,26 @@
+# jemdoc: nofooter
+== Tong Zhao
+
+~~~
+{}{img_left}{./images/profile.png}{photo}{180px}{180px}{}
+Ph.D. student\n
+[https://cse.nd.edu/ Dept. of Computer Science and Engineering]\n
+[https://www.nd.edu/ University of Notre Dame]\n
+Advisor: [http://www.meng-jiang.com/ Meng Jiang]
+\n
+\n
+\n
+355 Fitzpatrick Hall\n
+Notre Dame, IN 46556\n
+E-mail: tzhao2 $\alpha\tau$ nd $\delta o\tau$ edu
+~~~
+
+== Research Interests
+My research interests include computational behavior modeling, anomalous behavior detection, graph mining, and graph neural networks.
+
+== CV
+Please kindly find my [files/cv_zhao_tong.pdf Curriculun Vitae.]
+
+== Publications
+- \[C2\] *Tong Zhao*, Matthew Malir, and Meng Jiang. “[files/papers/BigData18_aoo.pdf Actionable Objective Optimization for Suspicious Behavior Detection on Large Bipartite Graphs.]” /IEEE International Conference on Big Data (*BigData*)/, 2018. (Oral)
+- \[C1\] Daheng Wang, Meng Jiang, Xueying Wang, *Tong Zhao*, Qingkai Zeng and Nitesh Chawla. "[https://www.kdd.org/kdd2018/files/project-showcase/KDD18_paper_1712.pdf A Project Showcase for Planning Research Work towards Publishable Success.]" /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2018. (Demo)
