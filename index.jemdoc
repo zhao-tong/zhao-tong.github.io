@@ -15,12 +15,14 @@ Profiles: [https://github.com/zhao-tong GitHub], [https://www.linkedin.com/in/zh
 ~~~
 
 == Research Interests
-My research interests include computational behavior modeling, anomalous behavior detection, graph mining, and graph neural networks.
+My research interests include computational behavior modeling, anomalous behavior detection, graph mining, and graph machine learning.
 
 == CV
 Please kindly find my [files/cv_zhao_tong.pdf Curriculum Vitae].
 
 == Publications
+- \[*C6*\] Wenhao Yu, Mengxia Yu, *Tong Zhao*, Meng Jiang. "[https://wyu97.github.io/papers/C3_WWW_2020.pdf Identifying Referential Intention with Heterogeneous Contexts.]" Proceeding of International World Wide Web Conference (*WWW*), 2020.
+- \[*J1*\] Tianwen Jiang, Qingkai Zeng, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh Chawla, Meng Jiang. "[https://ieeexplore.ieee.org/document/9034075 Biomedical Knowledge Graphs Construction from Conditional Statements.]" /the IEEE\/ACM Transactions on Computational Biology and Bioinformatics (*TCBB*)/, 2020.
 - \[*C5*\] Tianwen Jiang, Zhihan Zhang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla and Meng Jiang. "[files/papers/BIBM19-ctga.pdf CTGA: Graph-based Biomedical Literature Search.]" /IEEE International Conference on Bioinformatics and Biomedicine (*BIBM*)/, 2019.
 - \[*C4*\] Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla and Meng Jiang. "[files/papers/EMNLP19-mimo.pdf Multi-input Multi-output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text.]" /Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (*EMNLP*)/, 2019.
 - \[*W1*\] Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla and Meng Jiang. "[https://arxiv.org/pdf/1907.00720.pdf Constructing Information-Lossless Biological Knowledge Graphs from Conditional Statements.]" /International Workshop on Data Mining in Bioinformatics (*BioKDD*)/, 2019.
