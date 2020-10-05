@@ -217,7 +217,7 @@ def standardconf():
 
   [bodyend]
   <div id="clustrMap" style="display: none;">
-  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=BHP7ENvstW3rYE78zZ1Gutq8-48OuEcsOu6SP90_dZY"></script>
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=nCwwgUBh34M7l50-aXqyal2ReEO6EpSn8UMFTkPBBq8&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
   </div>
   </body>
   </html>
