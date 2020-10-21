@@ -23,8 +23,9 @@ Please kindly find my [files/cv_zhao_tong.pdf Curriculum Vitae].
 == Publications
 === Preprints
 - *Tong Zhao*, Yozen Liu, Leonardo Neves, Oliver Woodford, Meng Jiang and Neil Shah. \n"[https://arxiv.org/pdf/2006.06830.pdf Data Augmentation for Graph Neural Networks.]" arXiv:2006.06830.
-- Yihao Hu, *Tong Zhao*, Zhiliang Xu and Lizhen Lin. \n"[https://arxiv.org/pdf/2009.03892.pdf Neural Time-Dependent Partial Differential Equation.]" arXiv:2009.03892.
+- *Tong Zhao*, Bo Ni, Wenhao Yu and Meng Jiang. \n"[https://arxiv.org/pdf/2010.10016.pdf Early Anomaly Detection by Learning and Forecasting Behavior.]" arXiv:2010.10016.
 - Meng Jiang, Taeho Jung, Ryan Karl and *Tong Zhao*. \n"[https://arxiv.org/pdf/2009.07351.pdf Federated Dynamic GNN with Secure Aggregation.]" arXiv:2009.07351.
+- Yihao Hu, *Tong Zhao*, Zhiliang Xu and Lizhen Lin. \n"[https://arxiv.org/pdf/2009.03892.pdf Neural Time-Dependent Partial Differential Equation.]" arXiv:2009.03892.
 - Yao Ma, Xiaorui Liu, *Tong Zhao*, Yozen Liu, Jiliang Tang and Neil Shah. \n"[https://arxiv.org/pdf/2010.01777.pdf A Unified View on Graph Neural Networks as Graph Signal Denoising.]" arXiv:2010.01777.
 
 === Conference Papers
@@ -39,8 +40,9 @@ Please kindly find my [files/cv_zhao_tong.pdf Curriculum Vitae].
 - \[*J1*\] Tianwen Jiang, Qingkai Zeng, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh Chawla, Meng Jiang. "[https://ieeexplore.ieee.org/document/9034075 Biomedical Knowledge Graphs Construction from Conditional Statements.]" /the IEEE\/ACM Transactions on Computational Biology and Bioinformatics (*TCBB*)/, 2020.
 
 === Workshop and Demo Papers
-- \[*W4*\] *Tong Zhao*, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang and Meng Jiang. "[files/papers/DLG20_GAL.pdf GNN-based Graph Anomaly Detection with Graph Anomaly Loss.]" /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020.
-- \[*W3*\] *Tong Zhao\**, Bo Ni\*, Wenhao Yu and Meng Jiang. "[files/papers/DLG20_EarlyFraud.pdf Early Fraud Detection with Augmented Graph Learning.]" /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020.
-- \[*W2*\] Daheng Wang, Zhihan Zhang, Yihong Ma, *Tong Zhao*, Tianwen Jiang, Nitesh V. Chawla, Meng Jiang. "[http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf Learning Attribute-Structure Co-Evolutions in Dynamic Graphs.]" /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020. (*Best Paper Award*)
+- \[*W5*\] *Tong Zhao*, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang and Meng Jiang. "[files/papers/DLG20_GAL.pdf GNN-based Graph Anomaly Detection with Graph Anomaly Loss.]" /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020.
+- \[*W4*\] *Tong Zhao\**, Bo Ni\*, Wenhao Yu and Meng Jiang. "[files/papers/DLG20_EarlyFraud.pdf Early Fraud Detection with Augmented Graph Learning.]" /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020.
+- \[*W3*\] Daheng Wang, Zhihan Zhang, Yihong Ma, *Tong Zhao*, Tianwen Jiang, Nitesh V. Chawla, Meng Jiang. "[http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf Learning Attribute-Structure Co-Evolutions in Dynamic Graphs.]" /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020. (*Best Paper Award*)
+- \[*W2*\] Yang Zhou, *Tong Zhao* and Meng Jiang. "[http://www.meng-jiang.com/pubs/pgmcc-fever20/pgmcc-fever20-paper.pdf A Probabilistic Model with Commonsense Constraints for Pattern-based Temporal Fact Extraction.]" /Workshop on Fact Extraction and Verification (FEVER) at Annual Meeting of the Association for Computational Linguistics (ACL)/, 2020.
 - \[*W1*\] Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla and Meng Jiang. "[https://arxiv.org/pdf/1907.00720.pdf Constructing Information-Lossless Biological Knowledge Graphs from Conditional Statements.]" /International Workshop on Data Mining in Bioinformatics (BioKDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2019.
 - \[*D1*\] Daheng Wang, Meng Jiang, Xueying Wang, *Tong Zhao*, Qingkai Zeng and Nitesh Chawla. "[https://www.kdd.org/kdd2018/files/project-showcase/KDD18_paper_1712.pdf A Project Showcase for Planning Research Work towards Publishable Success.]" /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2018. (Demo)
