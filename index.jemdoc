@@ -15,7 +15,7 @@ Profiles: [https://github.com/zhao-tong GitHub], [https://www.linkedin.com/in/zh
 ~~~
 
 == Research Interests
-My research interests include computational behavior modeling, anomalous behavior detection, graph mining, and graph machine learning.
+My research interests include graph machine learning, computational behavior modeling, anomaly detection, and graph mining.
 
 == CV
 Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
@@ -46,3 +46,9 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - \[*W2*\] Yang Zhou, *Tong Zhao* and, Meng Jiang. "[http://www.meng-jiang.com/pubs/pgmcc-fever20/pgmcc-fever20-paper.pdf A Probabilistic Model with Commonsense Constraints for Pattern-based Temporal Fact Extraction.]" In /Workshop on Fact Extraction and Verification (FEVER) at Annual Meeting of the Association for Computational Linguistics (ACL)/, 2020.
 - \[*W1*\] Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang. "[https://arxiv.org/pdf/1907.00720.pdf Constructing Information-Lossless Biological Knowledge Graphs from Conditional Statements.]" In /International Workshop on Data Mining in Bioinformatics (BioKDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2019.
 - \[*D1*\] Daheng Wang, Meng Jiang, Xueying Wang, *Tong Zhao*, Qingkai Zeng, and Nitesh Chawla. "[https://www.kdd.org/kdd2018/files/project-showcase/KDD18_paper_1712.pdf A Project Showcase for Planning Research Work towards Publishable Success.]" In /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2018. (Demo)
+
+== Honors and Awards
+- Snap Research Fellow, /Snap Inc./ 2020.
+- Best Paper Award, /DLG-KDD./ 2020.
+- SIGIR Student Travel Grant, /29th ACM CIKM./ 2020.
+- Outstanding Teaching Assistant Honorable Mention, /University of Notre Dame./ 2019.
