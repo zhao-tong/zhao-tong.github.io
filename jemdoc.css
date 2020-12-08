@@ -7,10 +7,13 @@ table#tlayout {
 }
 
 body {
-	background: white;
-	/*font-family: "Lucida Console", Monaco, monospace;*/
-	font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
-	font-size: 16px;
+	/* background: white; */
+	background: #f3f3ef;
+	/* font-family: "Lucida Console", Monaco, monospace; */
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	/* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+	/* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+	font-size: 17px;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -39,11 +42,13 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
 	border: none;
-	background: white;
+	/* background: white; */
+	background: #f3f3ef;
 	text-align: left;
 	vertical-align: top;
 	min-width: 800px;
-	width: 800px;
+	/* main content width */
+	width: 900px;
 }
 
 #layout-menu a {
@@ -60,8 +65,10 @@ pre, tt {
 	font-family: monaco, monospace;
 }
 
+/* color for hyperlinks */
 a, a > tt {
-	color: #224b8d;
+	/* color: #224b8d; */
+	color: #40739e;
 	text-decoration: none;
 }
 

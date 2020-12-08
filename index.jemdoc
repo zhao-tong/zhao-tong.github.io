@@ -1,4 +1,4 @@
-# jemdoc: nofooter
+# jamdoc
 = Tong Zhao | 赵通
 
 ~~~
@@ -20,32 +20,36 @@ My research interests include graph machine learning, computational behavior mod
 == CV
 Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 
+== Recent News
+- Dec. 2020: I am deeply honored to be selected as one of the 2020 Snap Research Fellows by [https://research.snap.com/ Snap Research].
+- Dec. 2020: Our paper [https://arxiv.org/pdf/2006.06830.pdf Data Augmentation for Graph Neural Networks] was accepted to [https://aaai.org/Conferences/AAAI-21/ AAAI 2021]. See you over Zoom!
+
 == Publications
 === Preprints
-- *Tong Zhao*, Bo Ni, Wenhao Yu, and Meng Jiang. \n"[https://arxiv.org/pdf/2010.10016.pdf Early Anomaly Detection by Learning and Forecasting Behavior.]" arXiv:2010.10016.
-- Meng Jiang, Taeho Jung, Ryan Karl, and *Tong Zhao*. \n"[https://arxiv.org/pdf/2009.07351.pdf Federated Dynamic GNN with Secure Aggregation.]" arXiv:2009.07351.
-- Yihao Hu, *Tong Zhao*, Zhiliang Xu, and Lizhen Lin. \n"[https://arxiv.org/pdf/2009.03892.pdf Neural Time-Dependent Partial Differential Equation.]" arXiv:2009.03892.
-- Yao Ma, Xiaorui Liu, *Tong Zhao*, Yozen Liu, Jiliang Tang, and Neil Shah. \n"[https://arxiv.org/pdf/2010.01777.pdf A Unified View on Graph Neural Networks as Graph Signal Denoising.]" arXiv:2010.01777.
+- [https://arxiv.org/pdf/2010.10016.pdf Early Anomaly Detection by Learning and Forecasting Behavior]\n *Tong Zhao*, Bo Ni, Wenhao Yu, and Meng Jiang.\n arXiv:2010.10016.
+- [https://arxiv.org/pdf/2009.07351.pdf Federated Dynamic GNN with Secure Aggregation]\n Meng Jiang, Taeho Jung, Ryan Karl, and *Tong Zhao*.\n arXiv:2009.07351.
+- [https://arxiv.org/pdf/2009.03892.pdf Neural Time-Dependent Partial Differential Equation]\n Yihao Hu, *Tong Zhao*, Zhiliang Xu, and Lizhen Lin.\n arXiv:2009.03892.
+- [https://arxiv.org/pdf/2010.01777.pdf A Unified View on Graph Neural Networks as Graph Signal Denoising]\n Yao Ma, Xiaorui Liu, *Tong Zhao*, Yozen Liu, Jiliang Tang, and Neil Shah.\n arXiv:2010.01777.
 
 === Conference Papers
-- \[*C7*\] *Tong Zhao*, Yozen Liu, Leonardo Neves, Oliver Woodford, Meng Jiang, and Neil Shah. \n"[https://arxiv.org/pdf/2006.06830.pdf Data Augmentation for Graph Neural Networks.]" In /the Thirty-Fifth AAAI Conference on Artificial Intelligence (*AAAI*)/, 2021. \[[https://github.com/zhao-tong/GAug codes]\]
-- \[*C6*\] *Tong Zhao*, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang, and Meng Jiang. "[files/papers/CIKM20_GAL.pdf Error-bounded Graph Anomaly Loss for GNNs.]" In /ACM International Conference on Information and Knowledge Management (*CIKM*)/, 2020. \[[files/slides/CIKM20-GAL.pdf slides]\] \[[https://github.com/zhao-tong/Graph-Anomaly-Loss codes & datasets]\]
-- \[*C5*\] Wenhao Yu, Mengxia Yu, *Tong Zhao*, and Meng Jiang. "[https://wyu97.github.io/papers/C3_WWW_2020.pdf Identifying Referential Intention with Heterogeneous Contexts.]" In /Proceeding of International World Wide Web Conference (*WWW*)/, 2020.
-- \[*C4*\] Tianwen Jiang, Zhihan Zhang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang. "[files/papers/BIBM19-ctga.pdf CTGA: Graph-based Biomedical Literature Search.]" In /IEEE International Conference on Bioinformatics and Biomedicine (*BIBM*)/, 2019.
-- \[*C3*\] Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang. "[files/papers/EMNLP19-mimo.pdf Multi-input Multi-output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text.]" In /Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (*EMNLP*)/, 2019.
-- \[*C2*\] Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang. "[files/papers/KDD19-condition.pdf The Role of ``Condition'': A Novel Scientific Knowledge Graph Representation and Construction Model.]" In /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2019.
-- \[*C1*\] *Tong Zhao*, Matthew Malir, and Meng Jiang. "[files/papers/BigData18-aoo.pdf Actionable Objective Optimization for Suspicious Behavior Detection on Large Bipartite Graphs.]" In /IEEE International Conference on Big Data (*BigData*)/, 2018. (Oral) \[[files/slides/BigData18-aoo.pdf slides]\]
+- [https://arxiv.org/pdf/2006.06830.pdf Data Augmentation for Graph Neural Networks]\n *Tong Zhao*, Yozen Liu, Leonardo Neves, Oliver Woodford, Meng Jiang, and Neil Shah.\n/AAAI Conference on Artificial Intelligence (*AAAI*)/, 2021. \[[https://github.com/zhao-tong/GAug code]\]
+- [files/papers/CIKM20_GAL.pdf Error-bounded Graph Anomaly Loss for GNNs]\n *Tong Zhao*, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang, and Meng Jiang.\n  /ACM International Conference on Information and Knowledge Management (*CIKM*)/, 2020. \[[files/slides/CIKM20-GAL.pdf slides]\] \[[https://github.com/zhao-tong/Graph-Anomaly-Loss code & datasets]\]
+- [https://wyu97.github.io/papers/C3_WWW_2020.pdf Identifying Referential Intention with Heterogeneous Contexts]\n Wenhao Yu, Mengxia Yu, *Tong Zhao*, and Meng Jiang.\n /Proceeding of International World Wide Web Conference (*WWW*)/, 2020.
+- [files/papers/BIBM19-ctga.pdf CTGA: Graph-based Biomedical Literature Search]\n Tianwen Jiang, Zhihan Zhang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang.\n /IEEE International Conference on Bioinformatics and Biomedicine (*BIBM*)/, 2019.
+- [files/papers/EMNLP19-mimo.pdf Multi-input Multi-output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text]\n Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang.\n /Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (*EMNLP*)/, 2019.
+- [files/papers/KDD19-condition.pdf The Role of ``Condition'': A Novel Scientific Knowledge Graph Representation and Construction Model]\n Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2019.
+- [files/papers/BigData18-aoo.pdf Actionable Objective Optimization for Suspicious Behavior Detection on Large Bipartite Graphs]\n *Tong Zhao*, Matthew Malir, and Meng Jiang.\n /IEEE International Conference on Big Data (*BigData*)/, 2018. (Oral) \[[files/slides/BigData18-aoo.pdf slides]\]
 
 === Journal Papers
-- \[*J1*\] Tianwen Jiang, Qingkai Zeng, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh Chawla, and Meng Jiang. "[https://ieeexplore.ieee.org/document/9034075 Biomedical Knowledge Graphs Construction from Conditional Statements.]" In /the IEEE\/ACM Transactions on Computational Biology and Bioinformatics (*TCBB*)/, 2020.
+- [https://ieeexplore.ieee.org/document/9034075 Biomedical Knowledge Graphs Construction from Conditional Statements]\n Tianwen Jiang, Qingkai Zeng, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh Chawla, and Meng Jiang.\n /the IEEE\/ACM Transactions on Computational Biology and Bioinformatics (*TCBB*)/, 2020.
 
 === Workshop and Demo Papers
-- \[*W5*\] *Tong Zhao*, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang, and Meng Jiang. "[files/papers/DLG20_GAL.pdf GNN-based Graph Anomaly Detection with Graph Anomaly Loss.]" In /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020.
-- \[*W4*\] *Tong Zhao\**, Bo Ni\*, Wenhao Yu, and Meng Jiang. "[files/papers/DLG20_EarlyFraud.pdf Early Fraud Detection with Augmented Graph Learning.]" In /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020.
-- \[*W3*\] Daheng Wang, Zhihan Zhang, Yihong Ma, *Tong Zhao*, Tianwen Jiang, Nitesh V. Chawla, and Meng Jiang. "[http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf Learning Attribute-Structure Co-Evolutions in Dynamic Graphs.]" In /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020. (*Best Paper Award*)
-- \[*W2*\] Yang Zhou, *Tong Zhao* and, Meng Jiang. "[http://www.meng-jiang.com/pubs/pgmcc-fever20/pgmcc-fever20-paper.pdf A Probabilistic Model with Commonsense Constraints for Pattern-based Temporal Fact Extraction.]" In /Workshop on Fact Extraction and Verification (FEVER) at Annual Meeting of the Association for Computational Linguistics (ACL)/, 2020.
-- \[*W1*\] Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang. "[https://arxiv.org/pdf/1907.00720.pdf Constructing Information-Lossless Biological Knowledge Graphs from Conditional Statements.]" In /International Workshop on Data Mining in Bioinformatics (BioKDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2019.
-- \[*D1*\] Daheng Wang, Meng Jiang, Xueying Wang, *Tong Zhao*, Qingkai Zeng, and Nitesh Chawla. "[https://www.kdd.org/kdd2018/files/project-showcase/KDD18_paper_1712.pdf A Project Showcase for Planning Research Work towards Publishable Success.]" In /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2018. (Demo)
+- [files/papers/DLG20_GAL.pdf GNN-based Graph Anomaly Detection with Graph Anomaly Loss]\n *Tong Zhao*, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang, and Meng Jiang.\n /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020.
+- [files/papers/DLG20_EarlyFraud.pdf Early Fraud Detection with Augmented Graph Learning]\n *Tong Zhao*\*, Bo Ni\*, Wenhao Yu, and Meng Jiang.\n /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020.
+- [http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf Learning Attribute-Structure Co-Evolutions in Dynamic Graphs]\n Daheng Wang, Zhihan Zhang, Yihong Ma, *Tong Zhao*, Tianwen Jiang, Nitesh V. Chawla, and Meng Jiang.\n /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020. (*Best Paper Award*)
+- [http://www.meng-jiang.com/pubs/pgmcc-fever20/pgmcc-fever20-paper.pdf A Probabilistic Model with Commonsense Constraints for Pattern-based Temporal Fact Extraction]\n Yang Zhou, *Tong Zhao* and, Meng Jiang.\n /Workshop on Fact Extraction and Verification (FEVER) at Annual Meeting of the Association for Computational Linguistics (ACL)/, 2020.
+- [https://arxiv.org/pdf/1907.00720.pdf Constructing Information-Lossless Biological Knowledge Graphs from Conditional Statements]\n Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang.\n /International Workshop on Data Mining in Bioinformatics (BioKDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2019.
+- [https://www.kdd.org/kdd2018/files/project-showcase/KDD18_paper_1712.pdf A Project Showcase for Planning Research Work towards Publishable Success]\n Daheng Wang, Meng Jiang, Xueying Wang, *Tong Zhao*, Qingkai Zeng, and Nitesh Chawla.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2018. (Demo)
 
 == Honors and Awards
 - Snap Research Fellow, /Snap Inc./ 2020.
