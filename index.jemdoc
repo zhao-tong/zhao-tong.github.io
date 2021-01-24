@@ -32,7 +32,7 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - [https://arxiv.org/pdf/2010.01777.pdf A Unified View on Graph Neural Networks as Graph Signal Denoising]\n Yao Ma, Xiaorui Liu, *Tong Zhao*, Yozen Liu, Jiliang Tang, and Neil Shah.\n arXiv:2010.01777.
 
 === Conference Papers
-- [https://arxiv.org/pdf/2006.06830.pdf Data Augmentation for Graph Neural Networks]\n *Tong Zhao*, Yozen Liu, Leonardo Neves, Oliver Woodford, Meng Jiang, and Neil Shah.\n/AAAI Conference on Artificial Intelligence (*AAAI*)/, 2021. \[[https://github.com/zhao-tong/GAug code]\]
+- [https://arxiv.org/pdf/2006.06830.pdf Data Augmentation for Graph Neural Networks]\n *Tong Zhao*, Yozen Liu, Leonardo Neves, Oliver Woodford, Meng Jiang, and Neil Shah.\n/AAAI Conference on Artificial Intelligence (*AAAI*)/, 2021. \[[files/slides/AAAI21-GAug.pdf slides]\] \[[https://github.com/zhao-tong/GAug code]\]
 - [files/papers/CIKM20_GAL.pdf Error-bounded Graph Anomaly Loss for GNNs]\n *Tong Zhao*, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang, and Meng Jiang.\n  /ACM International Conference on Information and Knowledge Management (*CIKM*)/, 2020. \[[files/slides/CIKM20-GAL.pdf slides]\] \[[https://github.com/zhao-tong/Graph-Anomaly-Loss code & datasets]\]
 - [https://wyu97.github.io/papers/C3_WWW_2020.pdf Identifying Referential Intention with Heterogeneous Contexts]\n Wenhao Yu, Mengxia Yu, *Tong Zhao*, and Meng Jiang.\n /Proceeding of International World Wide Web Conference (*WWW*)/, 2020.
 - [files/papers/BIBM19-ctga.pdf CTGA: Graph-based Biomedical Literature Search]\n Tianwen Jiang, Zhihan Zhang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang.\n /IEEE International Conference on Bioinformatics and Biomedicine (*BIBM*)/, 2019.
