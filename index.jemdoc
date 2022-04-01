@@ -32,6 +32,7 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - [https://arxiv.org/pdf/2106.02172.pdf Counterfactual Graph Learning for Link Prediction]\n *Tong Zhao*, Gang Liu, Daheng Wang, Wenhao Yu, and Meng Jiang.\n arXiv:2106.02172.
 
 === Journal Papers
+- [/ Deep Multimodal Complementarity Learning]\n Daheng Wang, *Tong Zhao*, Wenhao Yu, Nitesh Chawla, and Meng Jiang.\n /IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*)/, 2022.
 - [https://arxiv.org/pdf/2009.03892.pdf Neural-PDE: A RNN based Neural Network for Solving Time Dependent PDEs]\n Yihao Hu, *Tong Zhao*, Shixin Xu, Zhiliang Xu, and Lizhe Lin.\n /Communications in Information and Systems (*CIS*)/, 2022.
 - [/ Federated Dynamic Graph Neural Networks with Secure Aggregation for Video-based Distributed Surveillance]\n Meng Jiang, Taeho Jung, Ryan Karl, and *Tong Zhao*.\n /ACM Transactions on Intelligent Systems and Technology (*TIST*)/, 2021.
 - [https://doi.org/10.1109/TNNLS.2021.3102609 A Synergistic Approach for Graph Anomaly Detection with Pattern Mining and Feature Learning]\n *Tong Zhao*, Tianwen Jiang, Neil Shah, and Meng Jiang.\n /IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*)/, 2021. \[[https://github.com/zhao-tong/Graph-Anomaly-Loss code & datasets]\]
