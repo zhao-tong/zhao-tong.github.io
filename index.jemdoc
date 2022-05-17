@@ -21,15 +21,14 @@ My research interests include graph machine learning, representation learning, a
 Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 
 == Recent News
+- May 2022: I just graduated from University of Notre Dame and will be joining [https://research.snap.com Snap Research] as a Research Scientist this summer!
 - Jan. 2022: I am invited to give a talk at [https://www.shenlanxueyuan.com ShenLanXueYuan] on "[https://www.shenlanxueyuan.com/open/course/135 Graph Data Augmentation for Graph Machine Learning]".
-- Dec. 2021: I will be joining [https://research.snap.com Snap Research] as a Research Scientist next summer!
 - Sept. 2021: I am honored to receive the Post Internship Fellowship from Amazon.
 - Dec. 2020: I am honored to receive the [https://research.snap.com/news/detail/2020-snap-research-fellows 2020 Snap Research Fellowship] from [https://research.snap.com/ Snap Research].
 
 == Publications
 === Preprints
 - [https://arxiv.org/pdf/2202.08871.pdf Graph Data Augmentation for Graph Machine Learning: A Survey]\n *Tong Zhao*, Gang Liu, Stephan Günnemann, and Meng Jiang.\n arXiv:2202.08871. \[[https://github.com/zhao-tong/graph-data-augmentation-papers reading list]\]
-- [https://arxiv.org/pdf/2106.02172.pdf Counterfactual Graph Learning for Link Prediction]\n *Tong Zhao*, Gang Liu, Daheng Wang, Wenhao Yu, and Meng Jiang.\n arXiv:2106.02172.
 
 === Journal Papers
 - [https://wyu97.github.io/papers/TNNLS_2022.pdf Deep Multimodal Complementarity Learning]\n Daheng Wang, *Tong Zhao*, Wenhao Yu, Nitesh Chawla, and Meng Jiang.\n /IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*)/, 2022. \[[https://doi.org/10.1109/TNNLS.2022.3165180 DOI]\]
@@ -40,6 +39,7 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - [https://ieeexplore.ieee.org/document/9034075 Biomedical Knowledge Graphs Construction from Conditional Statements]\n Tianwen Jiang, Qingkai Zeng, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh Chawla, and Meng Jiang.\n /IEEE\/ACM Transactions on Computational Biology and Bioinformatics (*TCBB*)/, 2020. \[[https://doi.org/10.1109/TCBB.2020.2979959 DOI]\]
 
 === Conference Papers
+- [https://arxiv.org/pdf/2106.02172.pdf Learning from Counterfactual Links for Link Prediction]\n *Tong Zhao*, Gang Liu, Daheng Wang, Wenhao Yu, and Meng Jiang.\n /International Conference on Machine Learning (*ICML*)/, 2022. \[[https://github.com/DM2-ND/CFLP code]\]
 - [https://arxiv.org/pdf/2203.07285.pdf Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts]\n Wenhao Yu, Chenguang Zhu, Lianhui Qin, Zhihan Zhang, *Tong Zhao*, and Meng Jiang.\n /Findings of Annual Meeting of the Association for Computational Linguistics (*ACL*)/, 2022. \[[https://github.com/DM2-ND/MoKGE code]\]
 - [https://ieeexplore.ieee.org/document/9679001 Dynamic Attributed Graph Prediction with Conditional Normalizing Flows]\n Daheng Wang, *Tong Zhao*, Nitesh Chawla, and Meng Jiang.\n /IEEE International Conference on Data Mining (*ICDM*)/, 2021.
 - [https://arxiv.org/pdf/2104.07228.pdf Sentence-Permuted Paragraph Generation]\n Wenhao Yu, Chenguang Zhu, *Tong Zhao*, Zhichun Guo, and Meng Jiang.\n /Conference on Empirical Methods in Natural Language Processing (*EMNLP*)/, 2021. \[[https://github.com/wyu97/permgen code]\]
