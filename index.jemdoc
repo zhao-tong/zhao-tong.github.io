@@ -29,6 +29,7 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 == Publications
 === Preprints
 - [https://arxiv.org/pdf/2202.08871.pdf Graph Data Augmentation for Graph Machine Learning: A Survey]\n *Tong Zhao*, Gang Liu, Stephan Günnemann, and Meng Jiang.\n arXiv:2202.08871. \[[https://github.com/zhao-tong/graph-data-augmentation-papers reading list]\]
+- [https://arxiv.org/pdf/2210.02016.pdf Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization ]\n Mingxuan Ju, *Tong Zhao*, Qianlong Wen, Wenhao Yu, Neil Shah, Yanfang Ye, and Chuxu Zhang.\n arXiv:2210.02016.
 
 === Journal Papers
 - [https://wyu97.github.io/papers/TNNLS_2022.pdf Deep Multimodal Complementarity Learning]\n Daheng Wang, *Tong Zhao*, Wenhao Yu, Nitesh Chawla, and Meng Jiang.\n /IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*)/, 2022. \[[https://doi.org/10.1109/TNNLS.2022.3165180 DOI]\]
