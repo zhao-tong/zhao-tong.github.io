@@ -29,7 +29,8 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 == Publications
 === Preprints
 - [https://arxiv.org/pdf/2202.08871.pdf Graph Data Augmentation for Graph Machine Learning: A Survey]\n *Tong Zhao*, Gang Liu, Stephan Günnemann, and Meng Jiang.\n arXiv:2202.08871. \[[https://github.com/zhao-tong/graph-data-augmentation-papers reading list]\]
-- [https://arxiv.org/pdf/2210.02016.pdf Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization ]\n Mingxuan Ju, *Tong Zhao*, Qianlong Wen, Wenhao Yu, Neil Shah, Yanfang Ye, and Chuxu Zhang.\n arXiv:2210.02016.
+- [https://arxiv.org/pdf/2210.02016.pdf Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization]\n Mingxuan Ju, *Tong Zhao*, Qianlong Wen, Wenhao Yu, Neil Shah, Yanfang Ye, and Chuxu Zhang.\n arXiv:2210.02016.
+- [https://arxiv.org/pdf/2210.00102.pdf MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization]\n Xiaotian Han, *Tong Zhao*, Yozen Liu, Xia Hu, and Neil Shah.\n arXiv:2210.00102.
 
 === Conference Papers
 - [/ GraPe: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering]\n Mingxuan Ju, Wenhao Yu, *Tong Zhao*, Chuxu Zhang, and Yanfang Ye.\n /Findings of Empirical Methods in Natural Language Processing (*EMNLP*)/, 2022. \[[https://github.com/jumxglhf/GRAPE code]\]
