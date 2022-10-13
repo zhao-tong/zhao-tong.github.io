@@ -29,6 +29,7 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 == Publications
 === Preprints
 - [https://arxiv.org/pdf/2202.08871.pdf Graph Data Augmentation for Graph Machine Learning: A Survey]\n *Tong Zhao*, Gang Liu, Stephan Günnemann, and Meng Jiang.\n arXiv:2202.08871. \[[https://github.com/zhao-tong/graph-data-augmentation-papers reading list]\]
+- [https://arxiv.org/pdf/2210.05801.pdf Linkless Link Prediction via Relational Distillation]\n Zhichun Guo, William Shiao, Shichang Zhang, Yozen Liu, Nitesh Chawla, Neil Shah, and *Tong Zhao*.\n arXiv:2210.05801.
 - [https://arxiv.org/pdf/2210.02016.pdf Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization]\n Mingxuan Ju, *Tong Zhao*, Qianlong Wen, Wenhao Yu, Neil Shah, Yanfang Ye, and Chuxu Zhang.\n arXiv:2210.02016.
 - [https://arxiv.org/pdf/2210.00102.pdf MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization]\n Xiaotian Han, *Tong Zhao*, Yozen Liu, Xia Hu, and Neil Shah.\n arXiv:2210.00102.
 - [https://arxiv.org/pdf/2210.03561.pdf Empowering Graph Representation Learning with Test-Time Graph Transformation]\n Wei Jin, *Tong Zhao*, Jiayuan Ding, Yozen Liu, Jiliang Tang, and Neil Shah.\n arXiv:2210.03561.
