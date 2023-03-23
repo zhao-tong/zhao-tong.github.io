@@ -15,7 +15,7 @@ Profiles: [https://github.com/zhao-tong GitHub], [https://www.linkedin.com/in/zh
 ~~~
 
 \n
-*Our team is hiring interns for 2023.* If you are interested, please apply on the Snap Research website [https://snap.submittable.com/submit here], and e-mail me afterwards.
+*To prospective interns:* Please apply on the Snap Research website [https://snap.submittable.com/submit here], and e-mail me afterwards.
 
 == Research Interests
 My research interests include graph machine learning, representation learning, anomaly detection, and user modeling.
@@ -34,6 +34,7 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 === Preprints
 - [https://arxiv.org/pdf/2202.08871.pdf Graph Data Augmentation for Graph Machine Learning: A Survey]\n *Tong Zhao*, Wei Jin, Yozen Liu, Yingheng Wang, Gang Liu, Stephan Günnemann, Neil Shah, and Meng Jiang.\n arXiv:2202.08871. \[[https://github.com/zhao-tong/graph-data-augmentation-papers reading list]\]
 - [https://arxiv.org/pdf/2210.05801.pdf Linkless Link Prediction via Relational Distillation]\n Zhichun Guo, William Shiao, Shichang Zhang, Yozen Liu, Nitesh Chawla, Neil Shah, and *Tong Zhao*.\n arXiv:2210.05801.
+- [https://arxiv.org/pdf/2303.10108.pdf Data-Centric Learning from Unlabeled Graphs with Diffusion Model]\n Gang Liu, Eric Inae, *Tong Zhao*, Jiaxin Xu, Tengfei Luo, and Meng Jiang.\n arXiv:2303.10108.
 
 === Conference Papers
 - [https://arxiv.org/pdf/2210.02016.pdf Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization]\n Mingxuan Ju, *Tong Zhao*, Qianlong Wen, Wenhao Yu, Neil Shah, Yanfang Ye, and Chuxu Zhang.\n /International Conference on Learning Representations (*ICLR*)/, 2023.
