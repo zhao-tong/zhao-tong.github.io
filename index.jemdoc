@@ -33,10 +33,10 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 == Publications
 === Preprints
 - [https://arxiv.org/pdf/2202.08871.pdf Graph Data Augmentation for Graph Machine Learning: A Survey]\n *Tong Zhao*, Wei Jin, Yozen Liu, Yingheng Wang, Gang Liu, Stephan Günnemann, Neil Shah, and Meng Jiang.\n arXiv:2202.08871. \[[https://github.com/zhao-tong/graph-data-augmentation-papers reading list]\]
-- [https://arxiv.org/pdf/2210.05801.pdf Linkless Link Prediction via Relational Distillation]\n Zhichun Guo, William Shiao, Shichang Zhang, Yozen Liu, Nitesh Chawla, Neil Shah, and *Tong Zhao*.\n arXiv:2210.05801.
 - [https://arxiv.org/pdf/2303.10108.pdf Data-Centric Learning from Unlabeled Graphs with Diffusion Model]\n Gang Liu, Eric Inae, *Tong Zhao*, Jiaxin Xu, Tengfei Luo, and Meng Jiang.\n arXiv:2303.10108.
 
 === Conference Papers
+- [https://arxiv.org/pdf/2210.05801.pdf Linkless Link Prediction via Relational Distillation]\n Zhichun Guo, William Shiao, Shichang Zhang, Yozen Liu, Nitesh Chawla, Neil Shah, and *Tong Zhao*.\n /International Conference on Machine Learning (*ICML*)/, 2023.
 - [https://arxiv.org/pdf/2210.02016.pdf Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization]\n Mingxuan Ju, *Tong Zhao*, Qianlong Wen, Wenhao Yu, Neil Shah, Yanfang Ye, and Chuxu Zhang.\n /International Conference on Learning Representations (*ICLR*)/, 2023.
 - [https://arxiv.org/pdf/2210.00102.pdf MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization]\n Xiaotian Han, *Tong Zhao*, Yozen Liu, Xia Hu, and Neil Shah.\n /International Conference on Learning Representations (*ICLR*)/, 2023.
 - [https://arxiv.org/pdf/2210.03561.pdf Empowering Graph Representation Learning with Test-Time Graph Transformation]\n Wei Jin, *Tong Zhao*, Jiayuan Ding, Yozen Liu, Jiliang Tang, and Neil Shah.\n /International Conference on Learning Representations (*ICLR*)/, 2023.
