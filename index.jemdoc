@@ -32,8 +32,11 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 
 == Publications
 
+=== Preprints
+- [https://arxiv.org/pdf/2310.04612.pdf A Topological Perspective on Demystifying GNN-based Link Prediction Performance]\n Yu Wang, *Tong Zhao*, Yuying Zhao, Yunchao Liu, Xueqi Cheng, Neil Shah, and Tyler Derr.\n Arxiv: 2310.04612, 2023.
+
 === Conference Papers
-- [/ GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation]\n Mingxuan Ju, *Tong Zhao*, Wenhao Yu, Neil Shah, and Yanfang Ye.\n /Conference on Neural Information Processing Systems (*NeruIPS*)/, 2023.
+- [https://arxiv.org/pdf/2310.00800.pdf GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation]\n Mingxuan Ju, *Tong Zhao*, Wenhao Yu, Neil Shah, and Yanfang Ye.\n /Conference on Neural Information Processing Systems (*NeruIPS*)/, 2023.
 - [https://arxiv.org/pdf/2303.10108.pdf Data-Centric Learning from Unlabeled Graphs with Diffusion Model]\n Gang Liu, Eric Inae, *Tong Zhao*, Jiaxin Xu, Tengfei Luo, and Meng Jiang.\n /Conference on Neural Information Processing Systems (*NeruIPS*)/, 2023.
 - [https://arxiv.org/pdf/2306.01323.pdf Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?]\n Haitao Mao, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n /Conference on Neural Information Processing Systems (*NeruIPS*)/, 2023.
 - [https://arxiv.org/pdf/2305.12087.pdf Semi-supervised Graph Imbalanced Regression]\n Gang Liu, *Tong Zhao*, Eric Inae, Tengfei Luo, and Meng Jiang.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2023.
