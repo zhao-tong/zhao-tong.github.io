@@ -18,12 +18,13 @@ Profiles: [https://github.com/zhao-tong GitHub], [https://www.linkedin.com/in/zh
 *To prospective interns:* Please apply on the Snap Research website [https://snap.submittable.com/submit here], and e-mail me afterwards.
 
 == Research Interests
-My research interests include graph machine learning, representation learning, anomaly detection, and user modeling.
+My research interests include social recommendation, graph machine learning, representation learning, and user modeling.
 
 == CV
 Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 
 == ~Recent~ News
+- *Call for Paper*: We are organzing a new research topic *[https://www.frontiersin.org/research-topics/60182/graph-machine-learning-at-large-scale Graph Machine Learning at Large Scale]* at [https://www.frontiersin.org/journals/big-data Frontiers in Big Data]. Please consider submitting your work!
 - May 2023: Our tutorial *[https://sites.google.com/ncsu.edu/gnnkdd2023tutorial/home Large-Scale Graph Neural Networks: the Past and New Frontiers]* was accepted to [https://kdd.org/kdd2023/ KDD 2023]. Stay tuned and see you in Long Beach!
 - Nov. 2022: I am thrilled to present our tutorial on *[https://github.com/zhao-tong/SDM2023_Graph_Data_Augmentation_Tutorial Augmentation Methods for Graph Learning]* at [https://www.siam.org/conferences/cm/conference/sdm23 SDM 2023]. Stay tuned and see you in Minneapolis!
 - Oct. 2022: Looking forward to giving a keynote at [https://mlog-workshop.github.io/ MLoG Workshop]. See you in Orlando!
@@ -33,9 +34,11 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 == Publications
 
 === Preprints
-- [https://arxiv.org/pdf/2310.04612.pdf A Topological Perspective on Demystifying GNN-based Link Prediction Performance]\n Yu Wang, *Tong Zhao*, Yuying Zhao, Yunchao Liu, Xueqi Cheng, Neil Shah, and Tyler Derr.\n Arxiv: 2310.04612, 2023.
+- [https://arxiv.org/pdf/2312.11109.pdf Graph Transformers for Large Graphs]\n Vijay Prakash Dwivedi, Yozen Liu, Anh Tuan Luu, Xavier Bresson, Neil Shah, and *Tong Zhao*.\n arXiv: 2312.11109, 2023.
 
 === Conference Papers
+- [https://openreview.net/pdf?id=8Ur2xmuw7w Revisiting Link Prediction: a Data Perspective]\n Haitao Mao, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n /International Conference on Learning Representations (*ICLR*)/, 2024.
+- [https://openreview.net/pdf?id=apA6SSXx2e A Topological Perspective on Demystifying GNN-based Link Prediction Performance]\n Yu Wang, *Tong Zhao*, Yuying Zhao, Yunchao Liu, Xueqi Cheng, Neil Shah, and Tyler Derr.\n /International Conference on Learning Representations (*ICLR*)/, 2024.
 - [https://arxiv.org/pdf/2310.00800.pdf GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation]\n Mingxuan Ju, *Tong Zhao*, Wenhao Yu, Neil Shah, and Yanfang Ye.\n /Conference on Neural Information Processing Systems (*NeruIPS*)/, 2023.
 - [https://arxiv.org/pdf/2303.10108.pdf Data-Centric Learning from Unlabeled Graphs with Diffusion Model]\n Gang Liu, Eric Inae, *Tong Zhao*, Jiaxin Xu, Tengfei Luo, and Meng Jiang.\n /Conference on Neural Information Processing Systems (*NeruIPS*)/, 2023.
 - [https://arxiv.org/pdf/2306.01323.pdf Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?]\n Haitao Mao, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n /Conference on Neural Information Processing Systems (*NeruIPS*)/, 2023.
@@ -71,15 +74,6 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - [files/papers/TNNLS21_pamful.pdf A Synergistic Approach for Graph Anomaly Detection with Pattern Mining and Feature Learning]\n *Tong Zhao*, Tianwen Jiang, Neil Shah, and Meng Jiang.\n /IEEE Transactions on Neural Networks and Learning Systems (*TNNLS*)/, 2021. \[[https://doi.org/10.1109/TNNLS.2021.3102609 DOI]\] \[[https://github.com/zhao-tong/Graph-Anomaly-Loss code & datasets]\]
 - [https://ieeexplore.ieee.org/document/9472956 Modeling Co-evolution of Attributed and Structural Information in Graph Sequence]\n Daheng Wang, Zhihan Zhang, Yihong Ma, *Tong Zhao*, Tianwen Jiang, Nitesh Chawla, and Meng Jiang.\n /IEEE Transactions on Knowledge and Data Engineering (*TKDE*)/, 2021. \[[https://doi.org/10.1109/TKDE.2021.3094332 DOI]\]
 - [https://ieeexplore.ieee.org/document/9034075 Biomedical Knowledge Graphs Construction from Conditional Statements]\n Tianwen Jiang, Qingkai Zeng, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh Chawla, and Meng Jiang.\n /IEEE\/ACM Transactions on Computational Biology and Bioinformatics (*TCBB*)/, 2020. \[[https://doi.org/10.1109/TCBB.2020.2979959 DOI]\]
-
-=== Workshop and Demo Papers
-- [/ Enhancing Multi-hop Connectivity for Graph Convolutional Networks]\n Songtao Liu, Shixiong Jing, *Tong Zhao*, Zengfeng Huang, and Dinghao Wu.\n /Workshop on Pre-training at International Conference on Machine Learning (ICML)/, 2022.
-- [files/papers/DLG20_GAL.pdf GNN-based Graph Anomaly Detection with Graph Anomaly Loss]\n *Tong Zhao*, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang, and Meng Jiang.\n /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020.
-- [files/papers/DLG20_EarlyFraud.pdf Early Fraud Detection with Augmented Graph Learning]\n *Tong Zhao*\*, Bo Ni\*, Wenhao Yu, and Meng Jiang.\n /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020.
-- [http://www.meng-jiang.com/pubs/coevognns-dlg20/coevognns-dlg20-paper.pdf Learning Attribute-Structure Co-Evolutions in Dynamic Graphs]\n Daheng Wang, Zhihan Zhang, Yihong Ma, *Tong Zhao*, Tianwen Jiang, Nitesh V. Chawla, and Meng Jiang.\n /Workshop on Deep Learning on Graphs (DLG-KDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2020. (*Best Paper Award*)
-- [http://www.meng-jiang.com/pubs/pgmcc-fever20/pgmcc-fever20-paper.pdf A Probabilistic Model with Commonsense Constraints for Pattern-based Temporal Fact Extraction]\n Yang Zhou, *Tong Zhao*, and Meng Jiang.\n /Workshop on Fact Extraction and Verification (FEVER) at Annual Meeting of the Association for Computational Linguistics (ACL)/, 2020.
-- [https://arxiv.org/pdf/1907.00720.pdf Constructing Information-Lossless Biological Knowledge Graphs from Conditional Statements]\n Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang.\n /International Workshop on Data Mining in Bioinformatics (BioKDD) at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2019.
-- [https://www.kdd.org/kdd2018/files/project-showcase/KDD18_paper_1712.pdf A Project Showcase for Planning Research Work towards Publishable Success]\n Daheng Wang, Meng Jiang, Xueying Wang, *Tong Zhao*, Qingkai Zeng, and Nitesh Chawla.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)/, 2018. (Demo)
 
 == Honors and Awards
 - Amazon Post-internship Fellowship, /Amazon./ 2021.
