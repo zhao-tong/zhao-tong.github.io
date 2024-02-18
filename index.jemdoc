@@ -35,8 +35,13 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 
 === Preprints
 - [https://arxiv.org/pdf/2312.11109.pdf Graph Transformers for Large Graphs]\n Vijay Prakash Dwivedi, Yozen Liu, Anh Tuan Luu, Xavier Bresson, Neil Shah, and *Tong Zhao*.\n arXiv: 2312.11109, 2023.
+- [https://arxiv.org/pdf/2402.02054.pdf Neural Scaling Laws on Graphs]\n Jingzhe Liu, Haitao Mao, Zhikai Chen, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n arXiv: 2402.02054, 2024.
+- [https://arxiv.org/pdf/2402.02216.pdf Graph Foundational Models]\n Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, *Tong Zhao*, Neil Shah, Michael Galkin, and Jiliang Tang.\n arXiv: 2402.02216, 2024.
+- [https://arxiv.org/pdf/2402.08170.pdf LLaGA: Large Language and Graph Assistant]\n Runjin Chen, *Tong Zhao*, Ajay Jaiswal, Neil Shah, and Zhangyang Wang.\n arXiv: 2402.08170, 2024.
+- [https://arxiv.org/pdf/2402.09711.pdf Node Duplication Improves Cold-start Link Prediction]\n Zhichun Guo, *Tong Zhao*, Yozen Liu, Kaiwen Dong, William Shiao, Neil Shah, and Nitesh Chawla.\n arXiv: 2402.09711, 2024.
 
 === Conference Papers
+- [/ Learning from Graphs without Explicit Graph Machine Learning Models]\n *Tong Zhao*, Neil Shah, and Elham Ghazizadeh.\n /International Conference on Learning Representations - Tiny Paper (*ICLR*)/, 2024.
 - [https://openreview.net/pdf?id=8Ur2xmuw7w Revisiting Link Prediction: a Data Perspective]\n Haitao Mao, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n /International Conference on Learning Representations (*ICLR*)/, 2024.
 - [https://openreview.net/pdf?id=apA6SSXx2e A Topological Perspective on Demystifying GNN-based Link Prediction Performance]\n Yu Wang, *Tong Zhao*, Yuying Zhao, Yunchao Liu, Xueqi Cheng, Neil Shah, and Tyler Derr.\n /International Conference on Learning Representations (*ICLR*)/, 2024.
 - [https://arxiv.org/pdf/2310.00800.pdf GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation]\n Mingxuan Ju, *Tong Zhao*, Wenhao Yu, Neil Shah, and Yanfang Ye.\n /Conference on Neural Information Processing Systems (*NeruIPS*)/, 2023.
@@ -61,9 +66,9 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - [https://arxiv.org/pdf/2006.06830.pdf Data Augmentation for Graph Neural Networks]\n *Tong Zhao*, Yozen Liu, Leonardo Neves, Oliver Woodford, Meng Jiang, and Neil Shah.\n /AAAI Conference on Artificial Intelligence (*AAAI*)/, 2021. \[[files/slides/AAAI21-GAug.pdf slides]\] \[[https://github.com/zhao-tong/GAug code]\]
 - [files/papers/CIKM20_GAL.pdf Error-bounded Graph Anomaly Loss for GNNs]\n *Tong Zhao*, Chuchen Deng, Kaifeng Yu, Tianwen Jiang, Daheng Wang, and Meng Jiang.\n /ACM International Conference on Information and Knowledge Management (*CIKM*)/, 2020. \[[files/slides/CIKM20-GAL.pdf slides]\] \[[https://github.com/zhao-tong/Graph-Anomaly-Loss code & datasets]\]
 - [http://www.meng-jiang.com/pubs/referint-www20/referint-www20-paper.pdf Identifying Referential Intention with Heterogeneous Contexts]\n Wenhao Yu, Mengxia Yu, *Tong Zhao*, and Meng Jiang.\n /International World Wide Web Conference (*WWW*)/, 2020.
-- [files/papers/BIBM19-ctga.pdf CTGA: Graph-based Biomedical Literature Search]\n Tianwen Jiang, Zhihan Zhang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang.\n /IEEE International Conference on Bioinformatics and Biomedicine (*BIBM*)/, 2019.
-- [files/papers/EMNLP19-mimo.pdf Multi-input Multi-output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text]\n Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang.\n /Conference on Empirical Methods in Natural Language Processing (*EMNLP*)/, 2019.
-- [files/papers/KDD19-condition.pdf The Role of ``Condition'': A Novel Scientific Knowledge Graph Representation and Construction Model]\n Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh V. Chawla, and Meng Jiang.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2019.
+- [files/papers/BIBM19-ctga.pdf CTGA: Graph-based Biomedical Literature Search]\n Tianwen Jiang, Zhihan Zhang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh Chawla, and Meng Jiang.\n /IEEE International Conference on Bioinformatics and Biomedicine (*BIBM*)/, 2019.
+- [files/papers/EMNLP19-mimo.pdf Multi-input Multi-output Sequence Labeling for Joint Extraction of Fact and Condition Tuples from Scientific Text]\n Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh Chawla, and Meng Jiang.\n /Conference on Empirical Methods in Natural Language Processing (*EMNLP*)/, 2019.
+- [files/papers/KDD19-condition.pdf The Role of ``Condition'': A Novel Scientific Knowledge Graph Representation and Construction Model]\n Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh Chawla, and Meng Jiang.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2019.
 - [files/papers/BigData18-aoo.pdf Actionable Objective Optimization for Suspicious Behavior Detection on Large Bipartite Graphs]\n *Tong Zhao*, Matthew Malir, and Meng Jiang.\n /IEEE International Conference on Big Data (*BigData*)/, 2018. \[[files/slides/BigData18-aoo.pdf slides]\]
 
 === Journal Papers
