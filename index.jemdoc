@@ -5,12 +5,12 @@
 {}{img_left}{./images/profile.jpg}{photo}{180px}{180px}{}
 Research Scientist at Snap Research\n
 \n
-2025 1st Avenue\n
-Seattle, WA 98121\n
+Contacts:\n
+110 110th Ave NE, Bellevue, WA 98004\n
 Personal E-mail: tong $\alpha\tau$ tzhao $\delta o\tau$ io\n
 Work E-mail: tong $\alpha\tau$ snap $\delta o\tau$ com\n
 ND Alumni E-mail: tzhao2 $\alpha\tau$ alumni $\delta o\tau$ nd $\delta o\tau$ edu\n
-School E-mail (deprecated): tzhao2 $\alpha\tau$ nd $\delta o\tau$ edu\n
+School E-mail (/deprecated/): tzhao2 $\alpha\tau$ nd $\delta o\tau$ edu\n
 Profiles: [https://github.com/zhao-tong GitHub], [https://www.linkedin.com/in/zhao-tong/ LinkedIn], [https://scholar.google.com/citations?user=05cRc-MAAAAJ&hl=en Google Scholar].
 ~~~
 
@@ -18,12 +18,12 @@ Profiles: [https://github.com/zhao-tong GitHub], [https://www.linkedin.com/in/zh
 *To prospective interns:* Please apply on the Snap Research website [https://snap.submittable.com/submit here], and e-mail me afterwards.
 
 == Research Interests
-My research interests include social recommendation, graph machine learning, representation learning, and user modeling.
+My research interests include machine learning and data mining with their applications on social recommendation, user modeling, etc.
 
 == CV
 Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 
-== ~Recent~ News
+== ~Recent~Outdated News
 - *Call for Paper*: We are organzing a new research topic *[https://www.frontiersin.org/research-topics/60182/graph-machine-learning-at-large-scale Graph Machine Learning at Large Scale]* at [https://www.frontiersin.org/journals/big-data Frontiers in Big Data]. Please consider submitting your work!
 - May 2023: Our tutorial *[https://sites.google.com/ncsu.edu/gnnkdd2023tutorial/home Large-Scale Graph Neural Networks: the Past and New Frontiers]* was accepted to [https://kdd.org/kdd2023/ KDD 2023]. Stay tuned and see you in Long Beach!
 - Nov. 2022: I am thrilled to present our tutorial on *[https://github.com/zhao-tong/SDM2023_Graph_Data_Augmentation_Tutorial Augmentation Methods for Graph Learning]* at [https://www.siam.org/conferences/cm/conference/sdm23 SDM 2023]. Stay tuned and see you in Minneapolis!
@@ -39,9 +39,10 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - [https://arxiv.org/pdf/2402.02216.pdf Graph Foundational Models]\n Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, *Tong Zhao*, Neil Shah, Michael Galkin, and Jiliang Tang.\n arXiv: 2402.02216, 2024.
 - [https://arxiv.org/pdf/2402.08170.pdf LLaGA: Large Language and Graph Assistant]\n Runjin Chen, *Tong Zhao*, Ajay Jaiswal, Neil Shah, and Zhangyang Wang.\n arXiv: 2402.08170, 2024.
 - [https://arxiv.org/pdf/2402.09711.pdf Node Duplication Improves Cold-start Link Prediction]\n Zhichun Guo, *Tong Zhao*, Yozen Liu, Kaiwen Dong, William Shiao, Neil Shah, and Nitesh Chawla.\n arXiv: 2402.09711, 2024.
+- [https://arxiv.org/pdf/2404.08660.pdf How Does Message Passing Improve Collaborative Filtering?]\n Mingxuan Ju, William Shiao, Zhichun Guo, Yanfang Ye, Yozen Liu, Neil Shah, and *Tong Zhao*.\n arXiv: 2404.08660, 2024.
 
 === Conference Papers
-- [/ Learning from Graphs without Explicit Graph Machine Learning Models]\n *Tong Zhao*, Neil Shah, and Elham Ghazizadeh.\n /International Conference on Learning Representations - Tiny Paper (*ICLR*)/, 2024.
+- [/ Graph Machine Learning Beyond Message Passing]\n *Tong Zhao*, Neil Shah, and Elham Ghazizadeh.\n /International Conference on Learning Representations - Tiny Paper (*ICLR*)/, 2024.
 - [https://openreview.net/pdf?id=8Ur2xmuw7w Revisiting Link Prediction: a Data Perspective]\n Haitao Mao, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n /International Conference on Learning Representations (*ICLR*)/, 2024.
 - [https://openreview.net/pdf?id=apA6SSXx2e A Topological Perspective on Demystifying GNN-based Link Prediction Performance]\n Yu Wang, *Tong Zhao*, Yuying Zhao, Yunchao Liu, Xueqi Cheng, Neil Shah, and Tyler Derr.\n /International Conference on Learning Representations (*ICLR*)/, 2024.
 - [https://arxiv.org/pdf/2310.00800.pdf GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation]\n Mingxuan Ju, *Tong Zhao*, Wenhao Yu, Neil Shah, and Yanfang Ye.\n /Conference on Neural Information Processing Systems (*NeruIPS*)/, 2023.
