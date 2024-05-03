@@ -36,12 +36,12 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 === Preprints
 - [https://arxiv.org/pdf/2312.11109.pdf Graph Transformers for Large Graphs]\n Vijay Prakash Dwivedi, Yozen Liu, Anh Tuan Luu, Xavier Bresson, Neil Shah, and *Tong Zhao*.\n arXiv: 2312.11109, 2023.
 - [https://arxiv.org/pdf/2402.02054.pdf Neural Scaling Laws on Graphs]\n Jingzhe Liu, Haitao Mao, Zhikai Chen, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n arXiv: 2402.02054, 2024.
-- [https://arxiv.org/pdf/2402.02216.pdf Graph Foundational Models]\n Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, *Tong Zhao*, Neil Shah, Michael Galkin, and Jiliang Tang.\n arXiv: 2402.02216, 2024.
-- [https://arxiv.org/pdf/2402.08170.pdf LLaGA: Large Language and Graph Assistant]\n Runjin Chen, *Tong Zhao*, Ajay Jaiswal, Neil Shah, and Zhangyang Wang.\n arXiv: 2402.08170, 2024.
 - [https://arxiv.org/pdf/2402.09711.pdf Node Duplication Improves Cold-start Link Prediction]\n Zhichun Guo, *Tong Zhao*, Yozen Liu, Kaiwen Dong, William Shiao, Neil Shah, and Nitesh Chawla.\n arXiv: 2402.09711, 2024.
 - [https://arxiv.org/pdf/2404.08660.pdf How Does Message Passing Improve Collaborative Filtering?]\n Mingxuan Ju, William Shiao, Zhichun Guo, Yanfang Ye, Yozen Liu, Neil Shah, and *Tong Zhao*.\n arXiv: 2404.08660, 2024.
 
 === Conference Papers
+- [https://arxiv.org/pdf/2402.08170.pdf LLaGA: Large Language and Graph Assistant]\n Runjin Chen, *Tong Zhao*, Ajay Jaiswal, Neil Shah, and Zhangyang Wang.\n /International Conference on Machine Learning (*ICML*)/, 2024.
+- [https://arxiv.org/pdf/2402.02216.pdf Graph Foundational Models]\n Haitao Mao, Zhikai Chen, Wenzhuo Tang, Jianan Zhao, Yao Ma, *Tong Zhao*, Neil Shah, Michael Galkin, and Jiliang Tang.\n /International Conference on Machine Learning (*ICML*)/, 2024.
 - [https://openreview.net/attachment?id=m6pvyXIQcu&name=pdf Learning from Graphs Beyond Message Passing]\n *Tong Zhao*, Neil Shah, and Elham Ghazizadeh.\n /International Conference on Learning Representations - Tiny Paper (*ICLR*)/, 2024.
 - [https://openreview.net/pdf?id=8Ur2xmuw7w Revisiting Link Prediction: a Data Perspective]\n Haitao Mao, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n /International Conference on Learning Representations (*ICLR*)/, 2024.
 - [https://openreview.net/pdf?id=apA6SSXx2e A Topological Perspective on Demystifying GNN-based Link Prediction Performance]\n Yu Wang, *Tong Zhao*, Yuying Zhao, Yunchao Liu, Xueqi Cheng, Neil Shah, and Tyler Derr.\n /International Conference on Learning Representations (*ICLR*)/, 2024.
