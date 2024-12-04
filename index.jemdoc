@@ -34,11 +34,13 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 
 === Preprints
 - [https://arxiv.org/pdf/2312.11109.pdf Graph Transformers for Large Graphs]\n Vijay Prakash Dwivedi, Yozen Liu, Anh Tuan Luu, Xavier Bresson, Neil Shah, and *Tong Zhao*.\n arXiv: 2312.11109, 2023.
-- [https://arxiv.org/pdf/2402.02054.pdf Neural Scaling Laws on Graphs]\n Jingzhe Liu, Haitao Mao, Zhikai Chen, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n arXiv: 2402.02054, 2024.
 - [https://arxiv.org/pdf/2402.09711.pdf Node Duplication Improves Cold-start Link Prediction]\n Zhichun Guo, *Tong Zhao*, Yozen Liu, Kaiwen Dong, William Shiao, Neil Shah, and Nitesh Chawla.\n arXiv: 2402.09711, 2024.
 - [https://arxiv.org/pdf/2403.18280.pdf Improving Out-of-Vocabulary Handling in Recommendation Systems]\n William Shiao, Mingxuan Ju, Zhichun Guo, Xin Chen, Evangelos Papalexakis, *Tong Zhao*, Neil Shah, and Yozen Liu.\n arXiv: 2403.18280, 2024.
+- [https://arxiv.org/pdf/2406.16321 Multimodal Graph Benchmark]\n Jing Zhu, Yuhang Zhou, Shengyi Qian, Zhongmou He, *Tong Zhao*, Neil Shah, and Danai Koutra.\n arXiv: 2406.16321, 2024.
+- [https://arxiv.org/pdf/2411.13865 HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems]\n Qiyao Ma, Menglin Yang, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Rex Ying.\n arXiv: 2411.13865, 2024.
 
 === Peer-reviewed Papers
+- [https://arxiv.org/pdf/2402.02054.pdf Neural Scaling Laws on Graphs]\n Jingzhe Liu, Haitao Mao, Zhikai Chen, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n /Learning on Graphs Conference (*LoG*)/, 2024.
 - [https://arxiv.org/pdf/2404.08660.pdf How Does Message Passing Improve Collaborative Filtering?]\n Mingxuan Ju, William Shiao, Zhichun Guo, Yanfang Ye, Yozen Liu, Neil Shah, and *Tong Zhao*.\n  /Conference on Neural Information Processing Systems (*NeruIPS*)/, 2024.
 - [https://arxiv.org/pdf/2409.14682 Robust Training Objectives Improve Embedding-based Retrieval in Industrial Recommendation Systems]\n Matthew Kolodner, Mingxuan Ju, Zihao Fan, *Tong Zhao*, Elham Ghazizadeh, Yan Wu, Neil Shah, and Yozen Liu.\n /RobustRecSys workshop at ACM Conference on Recommender Systems (*RecSys*)/, 2024.
 - [https://dl.acm.org/doi/abs/10.1145/3626772.3661367 Improving Embedding-Based Retrieval in Friend Recommendation with ANN Query Expansion]\n Pau Kung, Zihao Fan, *Tong Zhao*, Yozen Liu, Lucas Lai, Jiahui Shi, Yan Wu, Jun Yu, Neil Shah, and Ganesh Venkataraman.\n /SIGIR Symposium on IR in Practice (*SIRIP*)/, 2024.
