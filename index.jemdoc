@@ -39,9 +39,9 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - [https://arxiv.org/pdf/2412.17171 Enhancing Item Tokenization for Generative Recommendation through Self-Improvement]\n Runjin Chen, Mingxuan Ju, Ngoc Bui, Dimosthenis Antypas, Stanley Cai, Xiaopeng Wu, Leonardo Neves, Zhangyang Wang, Neil Shah, and *Tong Zhao*.\n arXiv: 2412.17171, 2024.
 - [https://arxiv.org/pdf/2501.00309 Retrieval-Augmented Generation with Graphs (GraphRAG)]\n Haoyu Han, Yu Wang, ..., *Tong Zhao*, Neil Shah, Amin Javari, Yinglong Xia, and Jiliang Tang.\n arXiv: 2501.00309, 2024.
 - [https://arxiv.org/pdf/2503.23333 Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics]\n Jing Zhu, Mingxuan Ju, Yozen Liu, Danai Koutra, Neil Shah, and *Tong Zhao*.\n arXiv: 22503.23333, 2025.
-- [https://arxiv.org/pdf/2502.15054 GiGL: Large-Scale Graph Neural Networks at Snapchat]\n *Tong Zhao*, Yozen Liu, Matthew Kolodner, Kyle Montemayor, ..., Shubham Vij, and Neil Shah.\n arXiv: 2502.15054, 2025.
 
 === Peer-reviewed Papers
+- [https://arxiv.org/pdf/2502.15054 GiGL: Large-Scale Graph Neural Networks at Snapchat]\n *Tong Zhao*, Yozen Liu, Matthew Kolodner, Kyle Montemayor, ..., Shubham Vij, and Neil Shah.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2025.
 - [/ Revisiting Self-Attention for Cross-Domain Sequential Recommendation]\n Mingxuan Ju, Leonardo Neves, Bhuvesh Kumar, Liam Collins, *Tong Zhao*, Yuwei Qiu, Qing Dou, Sohail Nizam, Sen Yang, and Neil Shah.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2025.
 - [/ On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective]\n Donald Loveland, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Danai Koutra.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2025.
 - [/ Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning]\n Ngoc Bui, Menglin Yang, Runjin Chen, Leonardo Neves, Mingxuan Ju, Rex Ying, Neil Shah, and *Tong Zhao*.\n /International Conference on Machine Learning (*ICML*)/, 2025.
