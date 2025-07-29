@@ -35,13 +35,14 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 
 === Preprints
 - [https://arxiv.org/pdf/2312.11109.pdf Graph Transformers for Large Graphs]\n Vijay Prakash Dwivedi, Yozen Liu, Anh Tuan Luu, Xavier Bresson, Neil Shah, and *Tong Zhao*.\n arXiv: 2312.11109, 2023.
-- [https://arxiv.org/pdf/2402.09711.pdf Node Duplication Improves Cold-start Link Prediction]\n Zhichun Guo, *Tong Zhao*, Yozen Liu, Kaiwen Dong, William Shiao, Neil Shah, and Nitesh Chawla.\n arXiv: 2402.09711, 2024.
 - [https://arxiv.org/pdf/2411.13865 HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems]\n Qiyao Ma, Menglin Yang, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Rex Ying.\n arXiv: 2411.13865, 2024.
 - [https://arxiv.org/pdf/2412.17171 Enhancing Item Tokenization for Generative Recommendation through Self-Improvement]\n Runjin Chen, Mingxuan Ju, Ngoc Bui, Dimosthenis Antypas, Stanley Cai, Xiaopeng Wu, Leonardo Neves, Zhangyang Wang, Neil Shah, and *Tong Zhao*.\n arXiv: 2412.17171, 2024.
 - [https://arxiv.org/pdf/2501.00309 Retrieval-Augmented Generation with Graphs (GraphRAG)]\n Haoyu Han, Yu Wang, ..., *Tong Zhao*, Neil Shah, Amin Javari, Yinglong Xia, and Jiliang Tang.\n arXiv: 2501.00309, 2024.
 - [https://arxiv.org/pdf/2503.23333 Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics]\n Jing Zhu, Mingxuan Ju, Yozen Liu, Danai Koutra, Neil Shah, and *Tong Zhao*.\n arXiv: 22503.23333, 2025.
 
 === Peer-reviewed Papers
+- [/ SEESAW: Do Graph Neural Networks Improve Node Representation Learning for All?]\n Yushun Dong, William Shiao, Yozen Liu, Jundong Li, Neil Shah, and *Tong Zhao*.\n /Journal of Data-centric Machine Learning Research (*DMLR*)/, 2025.
+- [https://arxiv.org/pdf/2402.09711.pdf Node Duplication Improves Cold-start Link Prediction]\n Zhichun Guo, *Tong Zhao*, Yozen Liu, Kaiwen Dong, William Shiao, Neil Shah, and Nitesh Chawla.\n /Transactions on Machine Learning Research (*TMLR*)/, 2025.
 - [https://arxiv.org/pdf/2502.15054 GiGL: Large-Scale Graph Neural Networks at Snapchat]\n *Tong Zhao*, Yozen Liu, Matthew Kolodner, Kyle Montemayor, ..., Shubham Vij, and Neil Shah.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2025.
 - [https://arxiv.org/pdf/2505.21811 Revisiting Self-Attention for Cross-Domain Sequential Recommendation]\n Mingxuan Ju, Leonardo Neves, Bhuvesh Kumar, Liam Collins, *Tong Zhao*, Yuwei Qiu, Qing Dou, Sohail Nizam, Sen Yang, and Neil Shah.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2025.
 - [https://arxiv.org/pdf/2505.11318 On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective]\n Donald Loveland, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Danai Koutra.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2025.
