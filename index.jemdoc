@@ -41,8 +41,10 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - [https://arxiv.org/pdf/22509.25522 Understanding Generative Recommendation with Semantic IDs from a Model-scaling View]\n Jingzhe Liu, Liam Collins, Jiliang Tang, *Tong Zhao*, Neil Shah, and Mingxuan Ju.\n arXiv: 2509.25522, 2025.
 
 === Peer-reviewed Papers
+- [https://arxiv.org/pdf/2509.13648 Sequential Data Augmentation for Generative Recommendation]\n Geon Lee, Bhuvesh Kumar, Mingxuan Ju, *Tong Zhao*, Kijung Shin, Neil Shah, and Liam Collins.\n /ACM Web Search and Data Mining (*WSDM*)/, 2026.
+- [https://arxiv.org/pdf/2504.06193 Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction]\n Zongyue Qin, Shichang Zhang, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Yizhou Sun.\n /Learning on Graphs Conference (*LoG*)/, 2025.
 - [https://arxiv.org/pdf/2507.09837 A Pre-training Framework for Relational Data with Information-theoretic Principles]\n Quang Truong, Zhikai Chen, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n /Conference on Neural Information Processing Systems (*NeurIPS*)/, 2025.
-- [https://arxiv.org/pdf/2507.22224 Generative Recommendation with Semantic IDs: A Practitioner's Handbook]\n Mingxuan Ju, Liam Collins, Leonardo Neves, Bhuvesh Kumar, Louis Wang, *Tong Zhao*, and Neil Shah.\n /ACM International Conference on Information and Knowledge Management (*CIKM*)/, 2025.
+- [https://arxiv.org/pdf/2507.22224 Generative Recommendation with Semantic IDs: A Practitioner's Handbook]\n Mingxuan Ju, Liam Collins, Leonardo Neves, Bhuvesh Kumar, Louis Wang, *Tong Zhao*, and Neil Shah.\n /ACM International Conference on Information and Knowledge Management (*CIKM*)/, 2025.\n *Best Paper Award*
 - [/ MI4Rec: Pretrained Language Model based Cold-Start Recommendation with Meta-Item Embeddings]\n Zaiyi Zheng, Yaochen Zhu, Haochen Liu, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Jundong Li.\n /ACM International Conference on Information and Knowledge Management (*CIKM*)/, 2025.
 - [https://openreview.net/pdf/617ad5ce23688c7b88fe8155107eb6efd9abc8bf.pdf SEESAW: Do Graph Neural Networks Improve Node Representation Learning for All?]\n Yushun Dong, William Shiao, Yozen Liu, Jundong Li, Neil Shah, and *Tong Zhao*.\n /Journal of Data-centric Machine Learning Research (*DMLR*)/, 2025.
 - [https://arxiv.org/pdf/2402.09711.pdf Node Duplication Improves Cold-start Link Prediction]\n Zhichun Guo, *Tong Zhao*, Yozen Liu, Kaiwen Dong, William Shiao, Neil Shah, and Nitesh Chawla.\n /Transactions on Machine Learning Research (*TMLR*)/, 2025.
@@ -100,8 +102,9 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - [files/papers/BigData18-aoo.pdf Actionable Objective Optimization for Suspicious Behavior Detection on Large Bipartite Graphs]\n *Tong Zhao*, Matthew Malir, and Meng Jiang.\n /IEEE International Conference on Big Data (*BigData*)/, 2018. \[[files/slides/BigData18-aoo.pdf slides]\]
 
 == Honors and Awards
+- Best Paper Award, /ACM CIKM./ 2025.
 - Amazon Post-internship Fellowship, /Amazon./ 2021.
 - Snap Research Fellowship, /Snap Inc./ 2020.
 - Best Paper Award, /DLG-KDD./ 2020.
-- SIGIR Student Travel Grant, /29th ACM CIKM./ 2020.
+- SIGIR Student Travel Grant, /ACM CIKM./ 2020.
 - Outstanding Teaching Assistant Honorable Mention, /University of Notre Dame./ 2019.
