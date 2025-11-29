@@ -17,7 +17,7 @@ Profiles: [https://github.com/zhao-tong GitHub], [https://www.linkedin.com/in/zh
 *To prospective interns:* Please apply on the Snap Research website [https://snap.submittable.com/submit here], and e-mail me afterwards.
 
 == Research Interests
-My research interests include machine learning and data mining with their applications on social recommendation, user modeling, etc.
+I work on machine learning and its applications on representation learning, recommendation, information retrieval, etc.
 
 == CV
 Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
@@ -33,13 +33,13 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 == Publications
 
 === Preprints
-- [https://arxiv.org/pdf/2312.11109.pdf Graph Transformers for Large Graphs]\n Vijay Prakash Dwivedi, Yozen Liu, Anh Tuan Luu, Xavier Bresson, Neil Shah, and *Tong Zhao*.\n arXiv: 2312.11109, 2023.
-- [https://arxiv.org/pdf/2411.13865 HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems]\n Qiyao Ma, Menglin Yang, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Rex Ying.\n arXiv: 2411.13865, 2024.
+- [https://arxiv.org/pdf/2511.14868 Hierarchical Token Prepending: Enhancing Information Flow in Decoder-based LLM Embeddings]\n Xueying Ding, Xingyue Huang, Mingxuan Ju, Liam Collins, Yozen Liu, Leman Akoglu, Neil Shah, and *Tong Zhao*.\n arXiv: 2511.14868, 2025.
+- [https://arxiv.org/pdf/2509.25522 Understanding Generative Recommendation with Semantic IDs from a Model-scaling View]\n Jingzhe Liu, Liam Collins, Jiliang Tang, *Tong Zhao*, Neil Shah, and Mingxuan Ju.\n arXiv: 2509.25522, 2025.
+- [https://arxiv.org/pdf/2503.23333 Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics]\n Jing Zhu, Mingxuan Ju, Yozen Liu, Danai Koutra, Neil Shah, and *Tong Zhao*.\n arXiv: 2503.23333, 2025.
 - [https://arxiv.org/pdf/2412.17171 Enhancing Item Tokenization for Generative Recommendation through Self-Improvement]\n Runjin Chen, Mingxuan Ju, Ngoc Bui, Dimosthenis Antypas, Stanley Cai, Xiaopeng Wu, Leonardo Neves, Zhangyang Wang, Neil Shah, and *Tong Zhao*.\n arXiv: 2412.17171, 2024.
 - [https://arxiv.org/pdf/2501.00309 Retrieval-Augmented Generation with Graphs (GraphRAG)]\n Haoyu Han, Yu Wang, ..., *Tong Zhao*, Neil Shah, Amin Javari, Yinglong Xia, and Jiliang Tang.\n arXiv: 2501.00309, 2024.
-- [https://arxiv.org/pdf/2503.23333 Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics]\n Jing Zhu, Mingxuan Ju, Yozen Liu, Danai Koutra, Neil Shah, and *Tong Zhao*.\n arXiv: 22503.23333, 2025.
-- [https://arxiv.org/pdf/2509.25522 Understanding Generative Recommendation with Semantic IDs from a Model-scaling View]\n Jingzhe Liu, Liam Collins, Jiliang Tang, *Tong Zhao*, Neil Shah, and Mingxuan Ju.\n arXiv: 2509.25522, 2025.
-- [https://arxiv.org/pdf/2511.14868 Hierarchical Token Prepending: Enhancing Information Flow in Decoder-based LLM Embeddings]\n Xueying Ding, Xingyue Huang, Mingxuan Ju, Liam Collins, Yozen Liu, Leman Akoglu, Neil Shah, and *Tong Zhao*.\n arXiv: 2511.14868, 2025.
+- [https://arxiv.org/pdf/2411.13865 Breaking Information Cocoons: A Hyperbolic Graph-LLM Framework for Exploration and Exploitation in Recommender Systems]\n Qiyao Ma, Menglin Yang, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Rex Ying.\n arXiv: 2411.13865, 2024.
+- [https://arxiv.org/pdf/2312.11109.pdf Graph Transformers for Large Graphs]\n Vijay Prakash Dwivedi, Yozen Liu, Anh Tuan Luu, Xavier Bresson, Neil Shah, and *Tong Zhao*.\n arXiv: 2312.11109, 2023.
 
 === Peer-reviewed Papers
 - [https://arxiv.org/pdf/2509.13648 Sequential Data Augmentation for Generative Recommendation]\n Geon Lee, Bhuvesh Kumar, Mingxuan Ju, *Tong Zhao*, Kijung Shin, Neil Shah, and Liam Collins.\n /ACM Web Search and Data Mining (*WSDM*)/, 2026.
