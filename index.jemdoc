@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{./images/profile.jpg}{photo}{180px}{180px}{}
-Senior Research Scientist at Snap Research\n
+Staff Research Scientist at Snap Research\n
 \n
 Contacts:\n
 Personal E-mail: tong $\alpha\tau$ tzhao $\delta o\tau$ io\n
@@ -17,7 +17,7 @@ Profiles: [https://github.com/zhao-tong GitHub], [https://www.linkedin.com/in/zh
 *To prospective interns:* Please apply on the Snap Research website [https://snap.submittable.com/submit here], and e-mail me afterwards.
 
 == Research Interests
-I work on machine learning and its applications on representation learning, recommendation, information retrieval, etc.
+I work on Generative Modeling, Post-training, and Agentic Systems for user modeling and personalization.
 
 == CV
 Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
@@ -33,6 +33,7 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 == Publications
 
 === Preprints
+- [https://arxiv.org/pdf/2603.11901 FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning]\n Yijun Pan, Weikang Qiu, Qiyao Ma, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Rex Ying.\n arXiv: 2603.11901, 2026.
 - [https://arxiv.org/pdf/2601.12145 Threshold Differential Attention for Sink-Free, Ultra-Sparse, and Non-Dispersive Language Modeling]\n Xingyue Huang, Xueying Ding, Mingxuan Ju, Yozen Liu, Neil Shah, and *Tong Zhao*.\n arXiv: 2601.12145, 2026.
 - [https://arxiv.org/pdf/2601.08816 MemRec: Collaborative Memory-Augmented Agentic Recommender System]\n Weixin Chen, Yuhan Zhao, Jingyuan Huang, Zihe Ye, Clark Mingxuan Ju, *Tong Zhao*, Neil Shah, Li Chen, and Yongfeng Zhang.\n arXiv: 2601.08816, 2026.
 - [https://arxiv.org/pdf/2511.14868 Hierarchical Token Prepending: Enhancing Information Flow in Decoder-based LLM Embeddings]\n Xueying Ding, Xingyue Huang, Mingxuan Ju, Liam Collins, Yozen Liu, Leman Akoglu, Neil Shah, and *Tong Zhao*.\n arXiv: 2511.14868, 2025.
