@@ -3,26 +3,20 @@
 
 ~~~
 {}{img_left}{./images/profile.jpg}{photo}{180px}{180px}{}
-Staff Research Scientist at Snap Research\n
+Senior Manager, Post-Training Research at Scale AI\n
 \n
 Contacts:\n
 Personal E-mail: tong $\alpha\tau$ tzhao $\delta o\tau$ io\n
-Work E-mail: tong $\alpha\tau$ snap $\delta o\tau$ com\n
-ND Alumni E-mail: tzhao2 $\alpha\tau$ alumni $\delta o\tau$ nd $\delta o\tau$ edu\n
+Work E-mail: tong.zhao $\alpha\tau$ scale $\delta o\tau$ com\n
 School E-mail /(deprecated)/: tzhao2 $\alpha\tau$ nd $\delta o\tau$ edu\n
 Profiles: [https://github.com/zhao-tong GitHub], [https://www.linkedin.com/in/zhao-tong/ LinkedIn], [https://scholar.google.com/citations?user=05cRc-MAAAAJ&hl=en Google Scholar].
 ~~~
 
 \n
-*To prospective interns:* Please apply on the Snap Research website [https://snap.submittable.com/submit here], and e-mail me afterwards.
-
-== Research Interests
-I work on Generative Modeling, Post-training, and Agentic Systems for user modeling and personalization.
-
-== CV
-Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
+I lead the Post-training Research team at Scale AI.
 
 == ~Recent~Outdated News
+- June 2026: I've joined Scale AI to work on post-training.
 - May 2025: Our hands-on tutorial *[/ Training Industry-scale GNNs with GiGL]* was accepted by [https://kdd2025.kdd.org/ KDD 2025]. Stay tuned and see you in Toronto!
 - May 2023: Our tutorial *[https://sites.google.com/ncsu.edu/gnnkdd2023tutorial/home Large-Scale Graph Neural Networks: the Past and New Frontiers]* was accepted by [https://kdd.org/kdd2023/ KDD 2023]. Stay tuned and see you in Long Beach!
 - Nov. 2022: I am thrilled to present our tutorial on *[https://github.com/zhao-tong/SDM2023_Graph_Data_Augmentation_Tutorial Augmentation Methods for Graph Learning]* at [https://www.siam.org/conferences/cm/conference/sdm23 SDM 2023]. Stay tuned and see you in Minneapolis!
@@ -37,10 +31,12 @@ Please kindly find my [files/tzhao_cv.pdf Curriculum Vitae].
 - [https://arxiv.org/pdf/2509.25522 Understanding Generative Recommendation with Semantic IDs from a Model-scaling View]\n Jingzhe Liu, Liam Collins, Jiliang Tang, *Tong Zhao*, Neil Shah, and Mingxuan Ju.\n arXiv: 2509.25522, 2025.
 - [https://arxiv.org/pdf/2412.17171 Enhancing Item Tokenization for Generative Recommendation through Self-Improvement]\n Runjin Chen, Mingxuan Ju, Ngoc Bui, Dimosthenis Antypas, Stanley Cai, Xiaopeng Wu, Leonardo Neves, Zhangyang Wang, Neil Shah, and *Tong Zhao*.\n arXiv: 2412.17171, 2024.
 - [https://arxiv.org/pdf/2501.00309 Retrieval-Augmented Generation with Graphs (GraphRAG)]\n Haoyu Han, Yu Wang, ..., *Tong Zhao*, Neil Shah, Amin Javari, Yinglong Xia, and Jiliang Tang.\n arXiv: 2501.00309, 2024.
-- [https://arxiv.org/pdf/2411.13865 Breaking Information Cocoons: A Hyperbolic Graph-LLM Framework for Exploration and Exploitation in Recommender Systems]\n Qiyao Ma, Menglin Yang, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Rex Ying.\n arXiv: 2411.13865, 2024.
 - [https://arxiv.org/pdf/2312.11109.pdf Graph Transformers for Large Graphs]\n Vijay Prakash Dwivedi, Yozen Liu, Anh Tuan Luu, Xavier Bresson, Neil Shah, and *Tong Zhao*.\n arXiv: 2312.11109, 2023.
 
 === Peer-reviewed Papers
+- [https://arxiv.org/pdf/2411.13865 Breaking Information Cocoons: A Hyperbolic Graph-LLM Framework for Exploration and Exploitation in Recommender Systems]\n Qiyao Ma, Menglin Yang, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Rex Ying.\n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2026.
+- [https://arxiv.org/pdf/2509.25522 Understanding Generative Recommendation with Semantic IDs from a Model-scaling View]\n Jingzhe Liu, Liam Collins, Jiliang Tang, *Tong Zhao*, Neil Shah, and Mingxuan Ju. \n /ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD*)/, 2026.
+- [https://arxiv.org/pdf/2602.01553 Plain Transformers are Surprisingly Powerful Link Predictors]\n Quang Truong, Yu Song, Donald Loveland, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Jiliang Tang.\n /International Conference on Machine Learning (*ICML*)/, 2026.
 - [https://arxiv.org/pdf/2601.12145 Threshold Differential Attention for Sink-Free, Ultra-Sparse, and Non-Dispersive Language Modeling]\n Xingyue Huang, Xueying Ding, Mingxuan Ju, Yozen Liu, Neil Shah, and *Tong Zhao*.\n /Annual Meeting of the Association for Computational Linguistics (*ACL*)/, 2026.
 - [https://arxiv.org/pdf/2511.14868 Hierarchical Token Prepending: Enhancing Information Flow in Decoder-based LLM Embeddings]\n Xueying Ding, Xingyue Huang, Mingxuan Ju, Liam Collins, Yozen Liu, Leman Akoglu, Neil Shah, and *Tong Zhao*.\n /Annual Meeting of the Association for Computational Linguistics (*ACL*)/, 2026.
 - [https://arxiv.org/pdf/2601.08816 MemRec: Collaborative Memory-Augmented Agentic Recommender System]\n Weixin Chen, Yuhan Zhao, Jingyuan Huang, Zihe Ye, Mingxuan Ju, *Tong Zhao*, Neil Shah, Li Chen, and Yongfeng Zhang.\n /Annual Meeting of the Association for Computational Linguistics (*ACL*)/, 2026.
