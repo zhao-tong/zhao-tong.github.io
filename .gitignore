@@ -1,4 +1,4 @@
 .DS_Store
-# Added by Snap Cursor Rules extension
-.cursor/rules/cursor-rules-debug.log
-.cursor/rules/remote
+
+# Overleaf clone of the CV source (nested git repo, synced with Overleaf separately)
+6908efc0abb0ce799ea58d44/
