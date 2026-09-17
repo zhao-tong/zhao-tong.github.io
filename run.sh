@@ -1,1 +1,1 @@
-uv run --no-project python jemdoc -c mysite.conf index.jemdoc
+uv run --no-project python jemdoc -c mysite.conf index.jemdoc papers.jemdoc

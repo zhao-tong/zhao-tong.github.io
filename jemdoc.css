@@ -424,3 +424,37 @@ svg.zh-name {
 	vertical-align: -0.27em;
 	margin-left: 0.05em;
 }
+
+/* page header: name on the left, Home/Papers tabs on the right, both on one baseline above the double rule */
+div#toptitle {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+#topnav a {
+	margin-left: 1.6em;
+	color: #C99700;
+	text-decoration: none;
+}
+#topnav a.current {
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
+	text-underline-offset: 0.18em;
+}
+
+/* the name in the header is a link back to the home page, styled exactly like the heading */
+div#toptitle h1 a.site-name,
+div#toptitle h1 a.site-name:visited,
+div#toptitle h1 a.site-name:hover {
+	color: inherit;
+	text-decoration: none;
+	border-bottom: none;
+}
+
+/* the 'Olds' fold under News: bold, heading gold (the disclosure triangle inherits the color) */
+details > summary {
+	font-weight: bold;
+	color: #C99700;
+	cursor: pointer;
+}
