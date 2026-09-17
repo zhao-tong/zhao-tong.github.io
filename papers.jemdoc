@@ -1,0 +1,5 @@
+# jemdoc: title{Papers - Tong Zhao | 赵通}
+# Full publication list page. The header/tabs come from mysite.conf [doctitle]; the list is the shared publications.jemdoc.
+= Tong Zhao |
+
+#include{publications.jemdoc}
