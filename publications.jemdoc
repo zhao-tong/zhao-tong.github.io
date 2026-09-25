@@ -12,6 +12,7 @@
 - [https://arxiv.org/pdf/2006.09610 Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network]\n Tianwen Jiang, *Tong Zhao*, Bing Qin, Ting Liu, Nitesh Chawla, and Meng Jiang.\n arXiv: 2006.09610, 2020.
 
 === Peer-reviewed Papers
+- [/ IncAgg: Efficient Memory-Enhanced Graph Learning via Incremental Aggregation]\n Xingyue Shi, Zhichao Hou, Jiahao Zhang, Suhang Wang, *Tong Zhao*, Neil Shah, and Xiaorui Liu.\n /Conference on Neural Information Processing Systems (*NeurIPS*)/, 2026.
 - [/ RoutePO: Personalized Routing Policy Optimization for LLM-based Multi-Channel Recall]\n Zaiyi Zheng, Yaochen Zhu, Mingxuan Ju, *Tong Zhao*, Neil Shah, and Jundong Li.\n /Findings of Empirical Methods in Natural Language Processing (*EMNLP*)/, 2026.
 - [/ Beyond Fixed Depths and Widths: Optimizing Textual Decoding Tries in LLM-based Generative Recommendation]\n Jingzhe Liu, Hanbing Wang, Jiliang Tang, Liam Collins, *Tong Zhao*, Neil Shah, and Mingxuan Ju.\n /ACM Conference on Recommender Systems (*RecSys*)/, 2026.
 - [https://arxiv.org/pdf/2512.17820 Understanding ID-Text Complementarity in Sequential Recommendation]\n Liam Collins, Bhuvesh Kumar, Mingxuan Ju, *Tong Zhao*, Donald Loveland, Leonardo Neves, and Neil Shah.\n /ACM Conference on Recommender Systems (*RecSys*)/, 2026.
