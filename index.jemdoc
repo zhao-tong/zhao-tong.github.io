@@ -17,6 +17,7 @@ Profiles: [https://github.com/zhao-tong GitHub], [https://www.linkedin.com/in/zh
 I lead a post-training research team at Scale AI, working on post-training data and methods, agentic RL environments, and frontier model evaluations in collaboration with leading AI labs. My research focuses on scalable supervision for long-horizon agents. Previously, I was a Staff Research Scientist at Snap Research, where I led research and production efforts on agentic search, generative recommendation, and personalization. I received my Ph.D. in Computer Science and Engineering from the University of Notre Dame in 2022, advised by [http://www.meng-jiang.com/ Prof. Meng Jiang].
 
 == News
+- Oct. 2026: We released [https://labs.scale.com/leaderboard/hss Humanity's Sixth Sense (HSS)], a benchmark for intuitive visual reasoning in multimodal models!
 - Sept. 2026: Our [https://labs.scale.com/rsi-benchmark/contribute RSI-Bench] is calling for task contributions from ML researchers!
 - June 2026: I've joined Scale AI to work on post-training.
 ~~~
